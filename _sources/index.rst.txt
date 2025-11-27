@@ -1,0 +1,24 @@
+.. MinHyuk_Personal_Website documentation master file, created by
+   sphinx-quickstart on Thu Nov 27 12:29:16 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+MinHyuk Park Personal_Website 
+======================================
+.. image:: profile.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Hi my name is MinHyuk. I am Ph.D. student in Computer Science at Texas State University.
+
+My research topic is autonomous robotics and drones. My current research is in multi-agent systems and planning for fault-tolerant robotic systems. 
+
+You can download my full CV here: :download:`Download CV <resume.pdf>`
+
+To contact me, you can e mail me at dmz44@txstate.edu.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
