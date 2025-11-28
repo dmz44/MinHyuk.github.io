@@ -1,0 +1,26 @@
+Education
+=========
+
+.. contents:: On this page
+   :local:
+   :depth: 2
+
+Ph.D. in Computer Science
+-------------------------
+**Texas State University**, San Marcos, Texas
+*Aug 2024 - Present* (Expected Graduation: Sep 2027)
+
+Master of Science in Computer Science
+-------------------------------------
+**Ulsan National University of Science and Technology (UNIST)**, Ulsan, South Korea
+*Mar 2022 - Aug 2024*
+
+* **Dissertation:** Wind Field Modeling for Formation Planning in Multi-Drone Systems
+
+Bachelor of Engineering (Dual Degree)
+-------------------------------------
+**Ulsan National University of Science and Technology (UNIST)**, Ulsan, South Korea
+*Graduated Feb 2022*
+
+* **Major 1:** Mechanical and Aerospace Engineering
+* **Major 2:** Computer Science and Engineering

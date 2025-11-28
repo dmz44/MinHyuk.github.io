@@ -1,0 +1,47 @@
+Experience
+==========
+
+.. contents:: On this page
+   :local:
+   :depth: 2
+
+Academic & Research Experience
+------------------------------
+
+Doctoral Instructor Assistant
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Texas State University**, San Marcos, Texas
+*2024 - Present*
+
+* Development of advanced course materials including Robotics Courses.
+
+Graduate Researcher
+^^^^^^^^^^^^^^^^^^^
+**AI, Robotics and Transportation Lab, UNIST**, Ulsan, South Korea
+*2022 - 2024*
+
+* Leading various robotics project teams as a self-motivated researcher.
+* Developing and integrating custom hardware and software for autonomous aerial and ground robots.
+* Hands-on experience with Robot Operating System (ROS) and simulator setup.
+* Integrating AI software with embedded systems.
+
+Teaching Assistant
+^^^^^^^^^^^^^^^^^^
+**Ulsan National University of Science and Technology (UNIST)**
+*2021 - 2023*
+
+* Designed coursework and projects for courses including Introduction to Robotics, Artificial Intelligence, and Data-based ML Design.
+* Covered topics such as Machine Learning, RL, ROS, Kalman/Particle Filters, and Turtlebot 3 missions.
+
+Professional Service
+--------------------
+
+Civil Engineer (Staff Sergeant)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Republic of Korea Air Force**, Chungju, South Korea
+*2019 - 2021*
+
+* Served as Squad Leader for 12 personnel.
+* Participated in emergency runway repair, CBRN exercises, and base infrastructure maintenance.
+* Conducted base defense exercises against ground and aerial targets.
+

@@ -10,7 +10,9 @@ MinHyuk Park Personal_Website
    :alt: MinHyuk Park
    :align: center
    
-Hi my name is MinHyuk. I am Ph.D. student in Computer Science at Texas State University.
+Hi my name is MinHyuk Park. You can call me MinHyuk.
+
+I am a Ph.D. student researcher in Computer Science specializing in autonomous robotics and multi-agent systems. 
 
 My research topic is autonomous robotics and drones. My current research is in multi-agent systems and planning for fault-tolerant robotic systems. 
 
@@ -22,3 +24,7 @@ To contact me, you can e mail me at dmz44@txstate.edu.
    :maxdepth: 2
    :caption: Contents:
 
+   Research
+   Education
+   Experience
+   Contact
