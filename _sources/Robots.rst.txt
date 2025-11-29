@@ -1,5 +1,8 @@
 Robot Portfolio
 ===================
+
+Here are some photoes of me flying FPV drones and getting to fly a ultralight plane.
+
 .. image:: fpv.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -15,7 +18,7 @@ Aerial Robots
 Autonomous Racing Drone
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-My Autonomous Drone at IROS 2018
+Custom autonomous drone completing physical obstacle course at IROS 2018. Uses Visual Intertial Odometry, YOLO and Optical Flow for localization and mission planning.
 https://www.youtube.com/watch?v=GCwo89aNn6g
 
 .. image:: autonomous_gif.gif
@@ -29,6 +32,9 @@ https://www.youtube.com/watch?v=GCwo89aNn6g
    
 Crazyflie Swarm for Drone Show
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Implemented crazyflie indoor drone show for TXST open house and for ongoing research. Drone show uses Skybrush compiled from source, and blender plugin for planning. Positioning provided by Valve Lighthouse 2 system.
+
 .. image:: drone_show.gif
    :width: 200px
    :alt: MinHyuk Park
@@ -36,6 +42,9 @@ Crazyflie Swarm for Drone Show
    
 Outdoor Survey Drone
 ^^^^^^^^^^^^^^^^^^^^^
+
+Custom outdoor survey drone for finding stranded pedestrians in forest, equipped with Jetson Xavier NX running YOLO object detection and RTK GPS.
+
 .. image:: survey_drone.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -55,6 +64,9 @@ Outdoor Survey Drone
    
 Gripper Drone
 ^^^^^^^^^^^^^
+
+Gripper drone with relay powered by PX4. Presented during AI Challengers Program 2021.
+
 .. image:: gripper_drone.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -62,6 +74,9 @@ Gripper Drone
 
 Magnet Drone
 ^^^^^^^^^^^^
+
+Magnet drone with relay powered by PX4. Presented during AI Challengers Program 2023.
+
 .. image:: magnet_drone.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -73,6 +88,9 @@ Magnet Drone
    
 Fixed Wing Planes
 ^^^^^^^^^^^^^^^^^
+
+Fixed wing planes powered by Ardupiliot. 4th class license for fixed wing drones in South Korea.
+
 .. image:: Fixed_wing.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -84,6 +102,9 @@ Fixed Wing Planes
    
 Heewing VTOL Plane
 ^^^^^^^^^^^^^^^^^^
+
+Vertical Takeoff and Landing Aircraft powered by Ardupiliot, with two front tilting rotors to transition to horizontal flight. 4th class license for fixed wing drones in South Korea.
+
 .. image:: heewing.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -91,6 +112,9 @@ Heewing VTOL Plane
 
 Outdoor Remote Control Racing FPV Drone
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+First Person View racing drones powered by Betaflight. 1st class license for multicopters in South Korea.
+
 .. image:: racing_drone.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -105,6 +129,9 @@ Ground Robots
 
 Turtlebot 3 with Open Manipulator and Jeston NX
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Turtlebot 3 with Open Manipulator X arm powered by OpenCR, Jetson Xavier NX. Planning for robot arm done with ROS 2 and Moveit library. Capable of running Voice to Text recognition, Large Language Models, YOLO object detection algoirhtm and SLAM algoirhtms, accerated by CUDA.
+
 .. image:: turtlebot3.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -112,6 +139,9 @@ Turtlebot 3 with Open Manipulator and Jeston NX
    
 Service Robot for Elderly
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Ground service robot with Jetson Xavier NX. Capable of running Voice to Text recognition, YOLO object detection algoirhtm and SLAM algoirhtms.
+
 .. image:: modle.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -123,6 +153,9 @@ Service Robot for Elderly
    
 3D Printer Farm with AI Management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Automated 3D printer with custom Octoprint firmware capable of remote management. Nvidia Jetson uses generative AI, Variable Autoencoder to detect nondocumented abnormalities, and YOLO for documented abnormalities. Received South Korean Patent.
+
 .. image:: printer_farm.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -130,6 +163,9 @@ Service Robot for Elderly
    
 Autonomous Model Scale Cars
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Ackermann stearing (conventional car steering) scaled cars that can be controlled with ROS1 for autonomous vehicle research.
+
 .. image:: scale_cars.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -137,6 +173,9 @@ Autonomous Model Scale Cars
   
 Turtlebot 4
 ^^^^^^^^^^^
+
+Turtlebot 4 robot with Robot Operating System 2.
+
 .. image:: turtlebot4.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -144,6 +183,9 @@ Turtlebot 4
    
 Unitree Go2
 ^^^^^^^^^^^
+
+Unitree Go2 Quadraped with custom secondary development enabled, capable of traversing hard terrian while carrying useful payloads such as companion computers.
+
 .. image:: unitree.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -151,6 +193,9 @@ Unitree Go2
    
 Segway RMP
 ^^^^^^^^^^
+
+Segway RMP that connects to Intel NUC for running bringup. Capable of carrying significant payload such as full sized monitor for companion robot research.
+
 .. image:: Segway_RMP.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -158,6 +203,9 @@ Segway RMP
    
 Husky A200
 ^^^^^^^^^^
+
+Husky A200 robot that connects to internal companion computer for running bringup and ROS. Capable of carrying significant payload in outdoor environment.
+
 .. image:: A200.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -165,6 +213,9 @@ Husky A200
 
 Sony Aibo
 ^^^^^^^^^
+
+Sony Aibo2 robot, designed as human companion. Capable of running limited custom code through web interface.
+
 .. image:: aibo.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -176,6 +227,9 @@ Simulated Robots
 
 Robot Arm in Nuclear Reactor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Recreated real nuclear reactor in Gazebo with collaboration with Korean Fusion Energy. Simulated robot arm is defined in URDF format, and motion planning is done through Moveit.
+
 .. image:: simulated_arm.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -183,6 +237,9 @@ Robot Arm in Nuclear Reactor
    
 Simulated Racing Drone
 ^^^^^^^^^^^^^^^^^^^^^^
+
+Recreated racing drone obstcale course and drone in Unreal Engine. Drone uses PX4 SITL instance that connects to the simulator.
+
 .. image:: simulated_racing.jpg
    :width: 200px
    :alt: MinHyuk Park

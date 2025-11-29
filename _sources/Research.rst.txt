@@ -9,7 +9,7 @@ Publications
 ------------
 * **Minhyuk Park**, Aloysius K. Mok, Tsz-Chiu Au, Robust Evacuation for Multi-Drone Failure in Drone Light Shows, AAAI 2026 Bridge Program: Making Embodied AI Reliable with Testing and Formal Verification
 * **Minhyuk Park**, Tsz-Chiu Au, "Wind Field Modeling for Formation Planning in Multi-Drone Systems," *ICRA*, 2024.
-* **Minhyuk Park**, Tsz-Chiu Au, "Motion Planning Algorithm of An Articulated Robotic Arm for Inspecting Double Null Divertor in Fusion Experimental Device," *ICRA Workshop Robotics for Nuclear Environments*, 2024.
+* **Minhyuk Park**, Tsz-Chiu Au, Challenges in Using Drone Swarms as Video Game Platforms, Workshop on Human-Multi Agent Interaction, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Detroit 2023.
 * Moon, H., Martinez-Carranza, J, Titus Cielwski, Matthias Faessler, Davide Falanga, Alessandro Simovic, Davide Scaramuzza, Shuo Li, Michae Ozo, Christophe De Wagter, Guido de Croon, Sunyou Hwang, Sunggoo Jung, Hynchul Sim, Haeryang Kim, **MinHyuk Park**, Tsz-Chiu Au, Si Jung Kim, , "Challenges and implemented technologies used in autonomous drone racing," *Intel Serv Robotics*, 12, 137-148, 2019.
 
 **Patents**
@@ -31,9 +31,9 @@ Course Development for Advanced Robotics and Autonomous Systems
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Aug 2025 - Dec 2025*
 
-* Served as Doctoral Instructor Assistant
+* Served as Doctoral Instructor Assistant for developing and running **Robotics** course in TXST.
 * Developed coursework with real robot, Turtlebot 3 with Open manipulator Arm, for students to learn robot programming in Simulator and with real hardware.
-* Introduced innovative and pioneering robotics course introducing robot intergration with latest Artificial Intelligence technologies including YOLO and Large Language Models, and hardware such as Hailo NPU and Jetson SOC.
+* Introduced innovative and pioneering robotics course with hands-on robot intergration with latest Artificial Intelligence technologies including YOLO and Large Language Models, and hardware such as Hailo NPU and Jetson SOC.
 
 Multiagent Aerial Systems
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -41,57 +41,38 @@ Multiagent Aerial Systems
 
 * On going research for graduate school.
 * Implemented of makespan-optimized motion planning algorithms considering inter-swarm aerodynamic interference. Implemented collision avoidance algorithms (APF, BVC, Stop and Go) on the **Crazyflie** platform.
-* Publications include Wind Field Modeling for Formation Planning in Multi-Drone Systems in international conference for robotics, ICRA.
+* Publications include Wind Field Modeling for Formation Planning in Multi-Drone Systems in respected international conference for robotics, ICRA.
 
 Robotic Arm for Nuclear Environment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Nov 2023 - May 2024*
 
-* Served as Lead Programmer. 
+* Served as Lead Programmer implementing simulated environment and core algoirhtms during graduate research.
 * Utilized Blender 3D modeling, MoveIt library, and Gazebo to implement motion planning for a virtual robotic arm based on real nuclear reactor specifications.
-* Presented research poster on improving efficiency for double null divertor inspection with robotic arm during international ICRA workshop conference.
+* Presented research poster on improving efficiency for robotic arm double null divertor inspection during international ICRA nuclear workshop conference.
 
 Service Robot Development
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2023 - Nov 2023*
 
-* Participated in National Research Foundation, South Korea's Funding project. 
+* Participated in National Research Foundation, South Korea's Funding project as a graduate researcher.
 * Designed an AI Companion Service Robot using ROS 1. Implemented human skeleton detection based on **OpenPose** and **Jetson NX**.
-* Improved human interactivity and user friendliness with latest AI technology and collaboration with Design School in UNIST.
+* Improved human interactivity and user friendliness of robots with latest AI technology and collaboration with Design School in UNIST.
 
 Smart 3D Printer Farm Development
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2022 - Nov 2022*
 
-* Served as Project Leader. 
+* Served as a **Project Leader** responsible for system design and programming during UNIST AI Challengers Program.
 * Used Generative AI (Variational AutoEncoder) and Object Detection (Darknet YOLO) for automated 3D printer diagnostics.
-* Submitted and approved South Korean Patent.
+* Submitted and approved South Korean Patent and presented in AI Challengers Program, 2022.
 
 Autonomous Drone Racing
 ^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2017 - Nov 2018*
 
-* Led the UNIST Dronebot team. 
-* Constructed custom drones with carbon fiber and 3D-printed parts, and designed control systems using ROS, Optitrack, ZED Stereo Cameras, and Jetson TX2.
-* Achieved fourth place in international competition, authored a section in collaborative journal paper. 
+* **Led the UNIST Dronebot** team building hardware and software for the ADR competition.
+* Constructed custom drones with carbon fiber and 3D-printed parts, and integrated control code with ROS, Optitrack, ZED Stereo Cameras, and Jetson TX2.
+* Completed real obstacle course as fourth place in IROS international competition, authored a section in a collaborative journal paper. 
 
-Technical Skills
-----------------
-* **AI & Vision:** Large Language Models, Computer Vision, Reinforcement Learning, Data-based Trajectory Prediction.
-* **Simulators:** Gazebo, AirSim, MoveIt Library.
-* **Embedded Systems:** Jetson Xavier NX, Raspberry Pi, Pixhawk, Arduino, Robotis OpenCR.
-* **Robot Platforms:** Ardupilot drones, Crazyflie, Turtlebot 3/4, Kuka Youbot, Husky A200.
-* **Sensors:** Optitrack, RTK GPS, Marvelmind Ultrasound Indoor GPS, UWB, Lidar.
 
-Honors & Awards
----------------
-* **4th Place**, IROS 2018 Award for Autonomous Drone Racing.
-* **2nd Place**, Airbus Autonomous Drone Racing, Seoul Adex.
-* **Final Rounds**, DNA+ Outdoors Autonomous Drone Survey Flight Competition.
-
-Scholarships
----------------
-* 2025 - TXST Graduate College Scholarship - Science and Engineering
-* 2024 - TXST Graduate Merit Fellowship
-* 2017-2018 - National Science & Technology Scholarship, South Korea
-* 2015-2016 - Merit Scholarship , Ulsan National Institute of Science and Technology, South Korea

@@ -1,4 +1,4 @@
-.. MinHyuk_Personal_Website documentation master file, created by
+.. MinHyuk Personal Website documentation master file, created by
    sphinx-quickstart on Thu Nov 27 12:29:16 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -10,15 +10,30 @@ MinHyuk Park Personal_Website
    :alt: MinHyuk Park
    :align: center
    
-Hi my name is MinHyuk Park. You can call me MinHyuk. (Pronounced mi-nhiuhk(en-us), rhymes with chuck)
+Hi my name is MinHyuk Park. You can call me MinHyuk. (Pronounced mi-nhiuhk(en-us), rhymes with chuck).
 
-I am a Ph.D. student researcher in Computer Science.
+I am a Ph.D. student researcher in Computer Science specializing in autonomous robotics and multi-agent systems. I possesses a strong record of innovation, including a first-author publication at the premier ICRA robotics conference (2024) and Short papers in Workshops (2023,2025), a granted patent in AI-based defect detection, and multiple awards from international autonomous drone competitions (IROS, Airbus). My expertise is in AI-driven task and motion planning and perception, as well as optimal integration of both hardware and software.
 
-My research topic is autonomous robotics and drones. My current research is in multi-agent systems and planning for fault-tolerant robotic systems. 
+My current research topic is in multi-agent systems and planning for fault-tolerant robotic systems. 
 
 You can download my full CV here: :download:`Download CV <resume.pdf>`
 
 To contact me, you can e mail me at dmz44@txstate.edu.
+
+Technical Skills
+----------------
+* **Programming Languages:** Python, C++, Robot Operating System 1/2
+* **AI & Vision:** Large Language Models, Computer Vision, Data-based Trajectory Prediction, Reinforcement Learning.
+* **AI framework:** Pytorch, Tensorflow, CUDA, Nvidia TensorRT, Hailo SDK, Greenwave GAP8 SDK
+* **Simulators:** Gazebo, AirSim.
+* **Embedded Systems Experience:** Jetson Xavier NX, Raspberry Pi, Pixhawk, Arduino, Hailo 8 NPU.
+* **Robot Platforms:** Mission customized robots including ardupilot drones, Crazyflies, Turtlebot 3/4, Kuka Youbot, Husky A200 and many more.
+* **Sensor Integration:** Motion Capture Systems, RTK GPS, Marvelmind Ultrasound Indoor GPS, UWB localization, Lidar.
+
+Professional Memberships
+------------------------
+* Student Member, Institute of Electrical and Electronics Engineers (IEEE)
+* Student Member, IEEE Robotics and Automation Society Membership (RAS)
 
 .. toctree::
    :maxdepth: 2
@@ -28,4 +43,5 @@ To contact me, you can e mail me at dmz44@txstate.edu.
    Robots
    Education
    Experience
+   Honors_Awards
    Contact

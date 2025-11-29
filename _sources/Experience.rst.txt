@@ -13,7 +13,9 @@ Doctoral Instructor Assistant
 **Texas State University**, San Marcos, Texas
 *2024 - Present*
 
-* Development of advanced course materials including Robotics Courses.
+* Served as Doctoral Instructor Assistant for developing and running **Robotics** course in TXST.
+* Developed coursework with real robot, Turtlebot 3 with Open manipulator Arm, for students to learn robot programming in Simulator and with real hardware.
+* Introduced innovative and pioneering robotics course with hands-on robot intergration with latest Artificial Intelligence technologies including YOLO and Large Language Models, and hardware such as Hailo NPU and Jetson SOC.
 
 Graduate Researcher
 ^^^^^^^^^^^^^^^^^^^
@@ -30,7 +32,7 @@ Teaching Assistant
 **Ulsan National University of Science and Technology (UNIST)**
 *2021 - 2023*
 
-* Designed coursework and projects for courses including Introduction to Robotics, Artificial Intelligence, and Data-based ML Design.
+* Designed coursework and projects for courses including UNIST Language Education Center English Peer Tutoring Program, Introduction to Robotics, Artificial Intelligence, and Data-based ML Design.
 * Covered topics such as Machine Learning, RL, ROS, Kalman/Particle Filters, and Turtlebot 3 missions.
 
 Professional Service
