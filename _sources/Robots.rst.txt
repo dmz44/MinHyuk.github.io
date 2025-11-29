@@ -1,0 +1,194 @@
+Robot Portfolio
+===================
+.. image:: fpv.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: pilot.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Aerial Robots
+-------------
+
+Autonomous Racing Drone
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+My Autonomous Drone at IROS 2018
+https://www.youtube.com/watch?v=GCwo89aNn6g
+
+.. image:: autonomous_gif.gif
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: autonomous_drone.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Crazyflie Swarm for Drone Show
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: drone_show.gif
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Outdoor Survey Drone
+^^^^^^^^^^^^^^^^^^^^^
+.. image:: survey_drone.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: survey_drone_2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: drone_competition.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: poster_survey.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Gripper Drone
+^^^^^^^^^^^^^
+.. image:: gripper_drone.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
+Magnet Drone
+^^^^^^^^^^^^
+.. image:: magnet_drone.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center   
+.. image:: magnet_drone_2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Fixed Wing Planes
+^^^^^^^^^^^^^^^^^
+.. image:: Fixed_wing.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: fixed_wing_2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Heewing VTOL Plane
+^^^^^^^^^^^^^^^^^^
+.. image:: heewing.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
+Outdoor Remote Control Racing FPV Drone
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: racing_drone.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center   
+.. image:: racing_2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center  
+   
+Ground Robots
+-------------
+
+Turtlebot 3 with Open Manipulator and Jeston NX
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: turtlebot3.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Service Robot for Elderly
+^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: modle.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: modle2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+3D Printer Farm with AI Management
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: printer_farm.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Autonomous Model Scale Cars
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: scale_cars.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+  
+Turtlebot 4
+^^^^^^^^^^^
+.. image:: turtlebot4.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Unitree Go2
+^^^^^^^^^^^
+.. image:: unitree.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Segway RMP
+^^^^^^^^^^
+.. image:: Segway_RMP.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Husky A200
+^^^^^^^^^^
+.. image:: A200.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
+Sony Aibo
+^^^^^^^^^
+.. image:: aibo.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+
+Simulated Robots
+----------------
+
+Robot Arm in Nuclear Reactor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: simulated_arm.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Simulated Racing Drone
+^^^^^^^^^^^^^^^^^^^^^^
+.. image:: simulated_racing.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: simulated_racing2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+      
