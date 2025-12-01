@@ -1,6 +1,10 @@
 Honors , Awards, and Qualifications
 ===================================
 
+.. contents:: On this page
+   :local:
+   :depth: 2
+   
 Honors & Awards
 ---------------
 * **4th Place**, IROS 2018 Award for Autonomous Drone Racing.
@@ -18,4 +22,4 @@ Scholarships
 Other Qualifications
 --------------------
 * Korean vehicle licenses - 1st class Unmanned Multicopter pilot’s license, 4th class Unmanned Fixed Wing pilot’s license (VTOL Fixed-wing aircraft capable)
-* Proficient in English (TOEFL 102 (2024), TOEIC 958(2021)) and a native Korean speaker. Basic conversational skills in Japanese (N3, 2020) and Chinese 
+* Proficient in English and a native Korean speaker. Basic conversational skills in Japanese (N3, 2020) and Mandarin Chinese 

@@ -10,14 +10,14 @@ Publications
 * **Minhyuk Park**, Aloysius K. Mok, Tsz-Chiu Au, Robust Evacuation for Multi-Drone Failure in Drone Light Shows, AAAI 2026 Bridge Program: Making Embodied AI Reliable with Testing and Formal Verification
 * **Minhyuk Park**, Tsz-Chiu Au, "Wind Field Modeling for Formation Planning in Multi-Drone Systems," *ICRA*, 2024.
 * **Minhyuk Park**, Tsz-Chiu Au, Challenges in Using Drone Swarms as Video Game Platforms, Workshop on Human-Multi Agent Interaction, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Detroit 2023.
-* Moon, H., Martinez-Carranza, J, Titus Cielwski, Matthias Faessler, Davide Falanga, Alessandro Simovic, Davide Scaramuzza, Shuo Li, Michae Ozo, Christophe De Wagter, Guido de Croon, Sunyou Hwang, Sunggoo Jung, Hynchul Sim, Haeryang Kim, **MinHyuk Park**, Tsz-Chiu Au, Si Jung Kim, , "Challenges and implemented technologies used in autonomous drone racing," *Intel Serv Robotics*, 12, 137-148, 2019.
+* Moon, H., Martinez-Carranza, J, Titus Cielwski, Matthias Faessler, Davide Falanga, Alessandro Simovic, Davide Scaramuzza, Shuo Li, Michae Ozo, Christophe De Wagter, Guido de Croon, Sunyou Hwang, Sunggoo Jung, Hynchul Sim, Haeryang Kim, **MinHyuk Park**, Tsz-Chiu Au, Si Jung Kim, "Challenges and implemented technologies used in autonomous drone racing," *Intel Serv Robotics*, 12, 137-148, 2019.
 
 **Patents**
 * "AI-based real-time FDM 3D printing defect detection and automation process," No. 1020230023102, South Korea, 2023.
 
 Publications Under Review
 -------------------------
-* **Minhyuk Park**, Tsz-Chiu Au, RRT-based drone evacuation for Multi-Drone Failure in Drone Light Shows IEEE International Conference on Robotics and Automation (ICRA), Vienna 2026
+* **Minhyuk Park**, Tsz-Chiu Au, RRT-based drone evacuation for Multi-Drone Failure in Drone Light Shows, IEEE International Conference on Robotics and Automation (ICRA), Vienna 2026
 
 Research Posters
 ----------------
@@ -31,48 +31,46 @@ Course Development for Advanced Robotics and Autonomous Systems
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Aug 2025 - Dec 2025*
 
-* Served as Doctoral Instructor Assistant for developing and running **Robotics** course in TXST.
-* Developed coursework with real robot, Turtlebot 3 with Open manipulator Arm, for students to learn robot programming in Simulator and with real hardware.
-* Introduced innovative and pioneering robotics course with hands-on robot intergration with latest Artificial Intelligence technologies including YOLO and Large Language Models, and hardware such as Hailo NPU and Jetson SOC.
+* Served as Doctoral Instructor Assistant for developing and running **Robotics** course at TXST.
+* Developed coursework with a real robot, Turtlebot 3 with Open manipulator Arm, for students to learn robot programming in the Simulator and with real hardware.
+* Introduced innovative and pioneering robotics course with hands-on robot integration with the latest Artificial Intelligence technologies, including YOLO and Large Language Models, and hardware such as Hailo NPU and Jetson SOC.
 
-Multiagent Aerial Systems
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Multi-agent Aerial Systems
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2023 - May 2024*
 
-* On going research for graduate school.
-* Implemented of makespan-optimized motion planning algorithms considering inter-swarm aerodynamic interference. Implemented collision avoidance algorithms (APF, BVC, Stop and Go) on the **Crazyflie** platform.
-* Publications include Wind Field Modeling for Formation Planning in Multi-Drone Systems in respected international conference for robotics, ICRA.
+* Ongoing research for graduate school.
+* Implemented makespan-optimized motion planning algorithms considering inter-swarm aerodynamic interference, as well as collision avoidance algorithms (APF, BVC, Stop and Go) on the **Crazyflie** platform.
+* Publications include Wind Field Modeling for Formation Planning in Multi-Drone Systems in a respected international conference for robotics, ICRA.
 
 Robotic Arm for Nuclear Environment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Nov 2023 - May 2024*
 
-* Served as Lead Programmer implementing simulated environment and core algoirhtms during graduate research.
+* Served as Lead Programmer, implementing a simulated environment and core algorithms during graduate research.
 * Utilized Blender 3D modeling, MoveIt library, and Gazebo to implement motion planning for a virtual robotic arm based on real nuclear reactor specifications.
-* Presented research poster on improving efficiency for robotic arm double null divertor inspection during international ICRA nuclear workshop conference.
+* Presented a research poster on improving efficiency for robotic arm double null divertor inspection during the international ICRA nuclear workshop conference.
 
 Service Robot Development
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2023 - Nov 2023*
 
-* Participated in National Research Foundation, South Korea's Funding project as a graduate researcher.
+* Participated in research collaboration with the Design School in UNIST as a graduate researcher.
 * Designed an AI Companion Service Robot using ROS 1. Implemented human skeleton detection based on **OpenPose** and **Jetson NX**.
-* Improved human interactivity and user friendliness of robots with latest AI technology and collaboration with Design School in UNIST.
+* Improved human interactivity and user friendliness of robots with the latest AI technology and human interactivity research.
 
 Smart 3D Printer Farm Development
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2022 - Nov 2022*
 
-* Served as a **Project Leader** responsible for system design and programming during UNIST AI Challengers Program.
+* Served as a **Project Leader** responsible for system design and programming during the UNIST AI Challengers Program.
 * Used Generative AI (Variational AutoEncoder) and Object Detection (Darknet YOLO) for automated 3D printer diagnostics.
-* Submitted and approved South Korean Patent and presented in AI Challengers Program, 2022.
+* Submitted and approved South Korean Patent, and presented in the AI Challengers Program, 2022.
 
 Autonomous Drone Racing
 ^^^^^^^^^^^^^^^^^^^^^^^
 *Feb 2017 - Nov 2018*
 
-* **Led the UNIST Dronebot** team building hardware and software for the ADR competition.
+* **Led the UNIST Dronebot** team in building hardware and software for the ADR competition.
 * Constructed custom drones with carbon fiber and 3D-printed parts, and integrated control code with ROS, Optitrack, ZED Stereo Cameras, and Jetson TX2.
-* Completed real obstacle course as fourth place in IROS international competition, authored a section in a collaborative journal paper. 
-
-
+* Completed a real obstacle course in fourth place in the IROS international competition, authored a section in a collaborative journal paper. 

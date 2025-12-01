@@ -1,8 +1,10 @@
 Robot Portfolio
 ===================
 
-Here are some photoes of me flying FPV drones and getting to fly a ultralight plane.
-
+.. contents:: On this page
+   :local:
+   :depth: 2
+   
 .. image:: fpv.jpg
    :width: 200px
    :alt: MinHyuk Park
@@ -12,13 +14,13 @@ Here are some photoes of me flying FPV drones and getting to fly a ultralight pl
    :alt: MinHyuk Park
    :align: center
    
-Aerial Robots
--------------
+Autonomous Aerial Systems 
+-------------------------
 
-Autonomous Racing Drone
-^^^^^^^^^^^^^^^^^^^^^^^^
+IROS 2018 Autonomous Racing Drone
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Custom autonomous drone completing physical obstacle course at IROS 2018. Uses Visual Intertial Odometry, YOLO and Optical Flow for localization and mission planning.
+Designed, fabricated, and integrated a custom drone to complete a physical obstacle course at IROS 2018, achieving 4th place in the international competition. Implemented the full perception stack (ROS1, Optitrack, ZED Stereo Cameras, Jetson TX2) using Visual Inertial Odometry (VIO) and Optical Flow for localization, and YOLO for obstacle detection.
 https://www.youtube.com/watch?v=GCwo89aNn6g
 
 .. image:: autonomous_gif.gif
@@ -30,10 +32,10 @@ https://www.youtube.com/watch?v=GCwo89aNn6g
    :alt: MinHyuk Park
    :align: center
    
-Crazyflie Swarm for Drone Show
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+High-Precision Indoor Drone Show Swarm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Implemented crazyflie indoor drone show for TXST open house and for ongoing research. Drone show uses Skybrush compiled from source, and blender plugin for planning. Positioning provided by Valve Lighthouse 2 system.
+Orchestrated a coordinated drone light show and research platform using multiple Crazyflie platforms. Achieved high-accuracy positioning using the Valve Lighthouse 2 tracking system. Developed a custom trajectory planning workflow by compiling Skybrush from source and integrating Blender.
 
 .. image:: drone_show.gif
    :width: 200px
@@ -43,7 +45,7 @@ Implemented crazyflie indoor drone show for TXST open house and for ongoing rese
 Outdoor Survey Drone
 ^^^^^^^^^^^^^^^^^^^^^
 
-Custom outdoor survey drone for finding stranded pedestrians in forest, equipped with Jetson Xavier NX running YOLO object detection and RTK GPS.
+Custom-built survey platform equipped with an RTK GPS module for precision positioning and a Jetson Xavier NX companion computer. Deployed for an actual search mission, running YOLO object detection at the edge to find stranded pedestrians in forested environments.
 
 .. image:: survey_drone.jpg
    :width: 200px
@@ -62,34 +64,153 @@ Custom outdoor survey drone for finding stranded pedestrians in forest, equipped
    :alt: MinHyuk Park
    :align: center
    
-Gripper Drone
-^^^^^^^^^^^^^
+Autonomous Ground Robots
+------------------------
 
-Gripper drone with relay powered by PX4. Presented during AI Challengers Program 2021.
+AI-Driven Mobile Manipulator
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: gripper_drone.jpg
+Integrated a TurtleBot3 and OpenManipulator with a Jetson Xavier NX for on-device AI inference. Developed a multimodal ROS 2 pipeline using Voice-to-Text for natural language command input and Large Language Models (LLMs) for high-level task reasoning. Achieved real-time object grounding and manipulation using YOLO and CUDA acceleration.
+
+.. image:: turtlebot3.jpg
    :width: 200px
    :alt: MinHyuk Park
    :align: center
 
-Magnet Drone
-^^^^^^^^^^^^
+AI-Augmented 3D Printing Manufacturing System
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Magnet drone with relay powered by PX4. Presented during AI Challengers Program 2023.
+Developed an automated 3D printer system for anomaly detection and fleet management. System leverages Generative AI (Variational Autoencoders) to identify undocumented printing errors and YOLO for classifying known failures. Received a South Korean Patent for the innovative system.
 
-.. image:: magnet_drone.jpg
+.. image:: printer_farm.jpg
    :width: 200px
    :alt: MinHyuk Park
-   :align: center   
-.. image:: magnet_drone_2.jpg
+   :align: center
+
+Service & Companion Robotics (HRI Focus)
+----------------------------------------
+   
+'Modle' AI Companion Robot
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Co-developed an elderly care service robot in collaboration with the UNIST Design Department. Engineered the software stack on NVIDIA Jetson Xavier NX, integrating OpenPose for human skeleton detection, Voice-to-Text for natural interaction, and SLAM for autonomous indoor navigation.
+
+.. image:: modle.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: modle2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
+Sony Aibo
+^^^^^^^^^
+
+Utilized the Sony Aibo 2 quadruped as a research platform for human-companion interaction, deploying custom behavioral scripts via the web API interface.
+
+.. image:: aibo.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
+Ground Field & Research Platforms (Legged & Wheeled)
+----------------------------------------------------
+
+Unitree Go2
+^^^^^^^^^^^
+
+Enabled custom secondary development on the Unitree Go2 platform. Optimized the quadruped for traversing difficult unstructured terrain while carrying heavy payloads, including external companion computing units. Currently in testing with a robotic arm.
+
+.. image:: unitree.jpg
    :width: 200px
    :alt: MinHyuk Park
    :align: center
    
+Segway RMP
+^^^^^^^^^^
+
+Configured and maintained a Segway RMP mobile base for heavy-duty payload research (including full-sized displays). Integrated an Intel NUC to handle system bring-up and high-level control.
+
+.. image:: Segway_RMP.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Husky A200
+^^^^^^^^^^
+
+Deployed a Clearpath Husky A200 for outdoor field research. Managed the integration of internal companion computers for ROS bring-up and autonomous navigation in rugged environments.
+
+.. image:: A200.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Autonomous Model Scale Cars
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Developed autonomous driving algorithms on 1/10th scale remote control cars featuring Ackermann steering geometry. Implemented ROS 1 control stacks for autonomous vehicle research, such as autonomous parking lot research.
+
+.. image:: scale_cars.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+  
+Turtlebot 4
+^^^^^^^^^^^
+
+Deployed TurtleBot 4 unit for research and teaching, utilizing the ROS 2 architecture for modern navigation and mapping tasks.
+
+.. image:: turtlebot4.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Simulation & Digital Twins
+--------------------------
+
+Nuclear Reactor Inspection Arm Digital Twin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Collaborated with Korean Fusion Energy to simulate a high-fidelity nuclear reactor environment in Gazebo. The simulated robot arm was modeled in URDF format, and complex motion planning was implemented using the MoveIt framework in ROS.
+
+.. image:: simulated_arm.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+   
+Simulated Racing Drone
+^^^^^^^^^^^^^^^^^^^^^^
+
+Recreated a racing drone obstacle course and drone in Unreal Engine to serve as an autonomous drone testing platform. The simulated drone uses a PX4 SITL (Software-in-the-Loop) instance connected directly to the simulator for realistic control and trajectory testing. Also used in coursework as part of the Particle Filter Assignment.
+
+.. image:: simulated_racing.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+.. image:: simulated_racing2.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
+Outdoor Aerial Platforms (VTOL & Others)
+----------------------------------------
+
+Heewing VTOL Aircraft
+^^^^^^^^^^^^^^^^^^^^^
+
+Built and piloted a Vertical Takeoff and Landing (VTOL) aircraft powered by ArduPilot. Configured transition parameters for tilting rotors to enable seamless switching between vertical hover and horizontal forward flight. Holds both Unmanned Fixed Wing and Multicopter Drone License.
+
+.. image:: heewing.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center
+
 Fixed Wing Planes
 ^^^^^^^^^^^^^^^^^
 
-Fixed wing planes powered by Ardupiliot. 4th class license for fixed wing drones in South Korea.
+Constructed and piloted fixed-wing aircraft using ArduPilot for long-endurance flight missions. Holds a Korean 4th Class Unmanned Fixed Wing Drone License. 
 
 .. image:: Fixed_wing.jpg
    :width: 200px
@@ -100,20 +221,10 @@ Fixed wing planes powered by Ardupiliot. 4th class license for fixed wing drones
    :alt: MinHyuk Park
    :align: center
    
-Heewing VTOL Plane
-^^^^^^^^^^^^^^^^^^
+Racing FPV Drone
+^^^^^^^^^^^^^^^^
 
-Vertical Takeoff and Landing Aircraft powered by Ardupiliot, with two front tilting rotors to transition to horizontal flight. 4th class license for fixed wing drones in South Korea.
-
-.. image:: heewing.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-
-Outdoor Remote Control Racing FPV Drone
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-First Person View racing drones powered by Betaflight. 1st class license for multicopters in South Korea.
+First Person View Racing Drones powered by Betaflight. 1st class license for multicopters in South Korea. Holds a Korean 1st Class Unmanned Multicopter License.
 
 .. image:: racing_drone.jpg
    :width: 200px
@@ -123,129 +234,37 @@ First Person View racing drones powered by Betaflight. 1st class license for mul
    :width: 200px
    :alt: MinHyuk Park
    :align: center  
-   
-Ground Robots
--------------
 
-Turtlebot 3 with Open Manipulator and Jeston NX
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Aerial Manipulation Drones
+--------------------------
 
-Turtlebot 3 with Open Manipulator X arm powered by OpenCR, Jetson Xavier NX. Planning for robot arm done with ROS 2 and Moveit library. Capable of running Voice to Text recognition, Large Language Models, YOLO object detection algoirhtm and SLAM algoirhtms, accerated by CUDA.
+Gripper Drone
+^^^^^^^^^^^^^
 
-.. image:: turtlebot3.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-   
-Service Robot for Elderly
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Developed custom PX4-powered drones equipped with an actuated gripper for aerial pick-and-place tasks. Presented during the UNIST AI Challengers Program 2021.
 
-Ground service robot with Jetson Xavier NX. Capable of running Voice to Text recognition, YOLO object detection algoirhtm and SLAM algoirhtms.
-
-.. image:: modle.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-.. image:: modle2.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-   
-3D Printer Farm with AI Management
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Automated 3D printer with custom Octoprint firmware capable of remote management. Nvidia Jetson uses generative AI, Variable Autoencoder to detect nondocumented abnormalities, and YOLO for documented abnormalities. Received South Korean Patent.
-
-.. image:: printer_farm.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-   
-Autonomous Model Scale Cars
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Ackermann stearing (conventional car steering) scaled cars that can be controlled with ROS1 for autonomous vehicle research.
-
-.. image:: scale_cars.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-  
-Turtlebot 4
-^^^^^^^^^^^
-
-Turtlebot 4 robot with Robot Operating System 2.
-
-.. image:: turtlebot4.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-   
-Unitree Go2
-^^^^^^^^^^^
-
-Unitree Go2 Quadraped with custom secondary development enabled, capable of traversing hard terrian while carrying useful payloads such as companion computers.
-
-.. image:: unitree.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-   
-Segway RMP
-^^^^^^^^^^
-
-Segway RMP that connects to Intel NUC for running bringup. Capable of carrying significant payload such as full sized monitor for companion robot research.
-
-.. image:: Segway_RMP.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-   
-Husky A200
-^^^^^^^^^^
-
-Husky A200 robot that connects to internal companion computer for running bringup and ROS. Capable of carrying significant payload in outdoor environment.
-
-.. image:: A200.jpg
+.. image:: gripper_drone.jpg
    :width: 200px
    :alt: MinHyuk Park
    :align: center
 
-Sony Aibo
-^^^^^^^^^
+Magnet Drone
+^^^^^^^^^^^^
 
-Sony Aibo2 robot, designed as human companion. Capable of running limited custom code through web interface.
+Developed custom PX4-powered drones equipped with magnetic relay mechanisms for aerial pick-and-place tasks using reinforcement learning. Presented during the UNIST AI Challengers Program 2023.
 
-.. image:: aibo.jpg
+.. image:: magnet_drone.jpg
+   :width: 200px
+   :alt: MinHyuk Park
+   :align: center   
+.. image:: magnet_drone_2.jpg
    :width: 200px
    :alt: MinHyuk Park
    :align: center
    
 
-Simulated Robots
-----------------
-
-Robot Arm in Nuclear Reactor
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Recreated real nuclear reactor in Gazebo with collaboration with Korean Fusion Energy. Simulated robot arm is defined in URDF format, and motion planning is done through Moveit.
-
-.. image:: simulated_arm.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
    
-Simulated Racing Drone
-^^^^^^^^^^^^^^^^^^^^^^
 
-Recreated racing drone obstcale course and drone in Unreal Engine. Drone uses PX4 SITL instance that connects to the simulator.
+   
 
-.. image:: simulated_racing.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-.. image:: simulated_racing2.jpg
-   :width: 200px
-   :alt: MinHyuk Park
-   :align: center
-      
+

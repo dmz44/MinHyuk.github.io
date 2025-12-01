@@ -10,15 +10,15 @@ MinHyuk Park Personal_Website
    :alt: MinHyuk Park
    :align: center
    
-Hi my name is MinHyuk Park. You can call me MinHyuk. (Pronounced mi-nhiuhk(en-us), rhymes with chuck).
+Hi, my name is MinHyuk Park. You can call me MinHyuk. (Pronounced mi-nhiuhk(en-us), rhymes with chuck).
 
-I am a Ph.D. student researcher in Computer Science specializing in autonomous robotics and multi-agent systems. I possesses a strong record of innovation, including a first-author publication at the premier ICRA robotics conference (2024) and Short papers in Workshops (2023,2025), a granted patent in AI-based defect detection, and multiple awards from international autonomous drone competitions (IROS, Airbus). My expertise is in AI-driven task and motion planning and perception, as well as optimal integration of both hardware and software.
+I am a Ph.D. student researcher in Computer Science, specializing in autonomous robotics and multi-agent systems. I possess a strong record of innovation, including a first-author publication at the premier ICRA robotics conference (2024) and Short papers in Workshops (2023,2025), a granted patent in AI-based defect detection, and multiple awards from autonomous drone competitions (IROS, Airbus). My expertise is in AI-driven task and motion planning and perception, as well as optimal integration of both hardware and software.
 
 My current research topic is in multi-agent systems and planning for fault-tolerant robotic systems. 
 
 You can download my full CV here: :download:`Download CV <resume.pdf>`
 
-To contact me, you can e mail me at dmz44@txstate.edu.
+To contact me, you can email me at dmz44@txstate.edu.
 
 Technical Skills
 ----------------
